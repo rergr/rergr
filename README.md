@@ -2,7 +2,8 @@ Hello there! 👋
 
 Welcome to my profile. Here are some things about me that might interest you:
 
-    🔭 I’m currently working on various programming projects, including web development and data analysis. I enjoy learning new technologies and experimenting with different tools.
+    🔭 I’m currently working on various programming projects, including web development and data analysis. I enjoy learning new technologies 
+    and experimenting with different tools.
 
     🌱 I’m currently learning more about machine learning and artificial intelligence, 
     as I believe these fields will be critical in shaping the future of technology.
